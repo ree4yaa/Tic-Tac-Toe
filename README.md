@@ -1,4 +1,4 @@
-# Tic-Tac-Toe 🎮
+# Tic-Tac-Toe
 
 I made this little Tic-Tac-Toe game to brush up on some of my concepts.
 
